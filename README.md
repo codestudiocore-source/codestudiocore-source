@@ -3,7 +3,7 @@
 
 🌐 Live Portfolio
 
-🔗 https://codestudiocore-source.github.io/Portfolio-Eman/
+🔗https://codestudiocore-source.github.io/My-portfolio-eman/
 
 🧠 Skills Overview
 
