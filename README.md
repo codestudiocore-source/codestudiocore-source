@@ -1,11 +1,39 @@
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,kotlin,cpp,php" />
-# 👋 Hi, I'm Eman Fatima
+![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=200\&section=header\&text=Eman%20Fatima\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Full%20Stack%20MERN%20Developer\&descAlignY=55)
+<h1 align="center"> Full Stack Web-Developer | AI Enthusiast</h1>
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;React+Specialist;AI+Learner\&center=true\&width=500\&height=50)
+🌐 Live Portfolio
 
----
+🔗 https://codestudiocore-source.github.io/Portfolio-Eman/
 
-## 💫 About Me
+🧠 Skills Overview
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+ 💻 I Use
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+
+</td>
+
+<td align="center" width="33%">
+
+ ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
+
+</td>
+
+<td align="center" width="33%">
+🧑‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c" />
+
+</td>
+</tr>
+</table>
+💫 About Me
 
 💻 Full Stack Web Developer (MERN)
 🎓 Computer Science Student
@@ -14,49 +42,6 @@
 📊 Strong knowledge of DBMS & Backend Systems
 🎯 Goal: Become a Top Freelance Developer
 
----
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages
-
-`C` `C++` `Java` `Python` `Kotlin` `SQL` `PHP` `JavaScript`
-
-### 🌐 Frontend
-
-`HTML5` `CSS3` `React` `Bootstrap` `Tailwind CSS`
-
-### ⚙️ Backend
-
-`Node.js` `Express.js` `MERN Stack`
-
-### 🗄️ Database
-
-`MongoDB` `MySQL`
-
-### 🛠️ Tools
-
-`Git` `GitHub` `VS Code` `Android Studio` `AI Tools`
-
----
-
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=codestudiocore-source\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codestudiocore-source\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source\&layout=compact\&theme=tokyonight\&hide_border=true)
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=codestudiocore-source&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source&layout=compact&theme=tokyonight)
-
----
-![Stats](https://github-readme-stats.vercel.app/api?username=codestudiocore-source&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 📈 Activity Graph
 
@@ -81,6 +66,27 @@
 🏅 Strong Problem Solving Skills
 
 ---
+## 🧠 Tech Stack
+
+### 👨‍💻 Languages
+
+`C` `C++` `Java` `Python` `Kotlin` `SQL` `PHP` `JavaScript`
+
+### 🌐 Frontend
+
+`HTML5` `CSS3` `React` `Bootstrap` `Tailwind CSS`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js` `MERN Stack`
+
+### 🗄️ Database
+
+`MongoDB` `MySQL`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `VS Code` `Android Studio` `AI Tools`
 
 ## 📫 Connect With Me
 
@@ -92,5 +98,3 @@
 ## ⚡ Fun Fact
 
 I build projects faster using AI + modern dev tools 🚀
-
----
