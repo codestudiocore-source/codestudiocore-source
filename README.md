@@ -47,8 +47,16 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=codestudiocore-source\&theme=tokyonight\&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source\&layout=compact\&theme=tokyonight\&hide_border=true)
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=codestudiocore-source&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source&layout=compact&theme=tokyonight)
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=codestudiocore-source&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestudiocore-source&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 📈 Activity Graph
 
